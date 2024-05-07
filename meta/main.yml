@@ -1,0 +1,8 @@
+---
+galaxy_info:
+  role_name: install_tools
+  namespace: homelaba
+  author: Artur Akmalov
+  description: Install tools to proxmox lxc
+  license: MIT
+  min_ansible_version: '2.9'
